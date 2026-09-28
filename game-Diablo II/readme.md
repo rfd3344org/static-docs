@@ -1,11 +1,10 @@
-## url
-origin: https://tieba.baidu.com/p/7009394664
 
-
-## setup
-- download from rfd3344game3: 
+#download
+- download from goole drive rfd3344game3: 
 https://drive.google.com/drive/folders/1J5MQEK6JJZk_eNfNiBvSlsnEBuF57EIX?usp=sharing
 
+
+# characters setup
 - replace file `PlugY.ini` 
 - replace folder `Save`
 - notes 
