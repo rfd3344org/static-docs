@@ -23,15 +23,17 @@ https://drive.google.com/drive/folders/1J5MQEK6JJZk_eNfNiBvSlsnEBuF57EIX?usp=sha
 - eli-sorc
 - eli-warlock
 
-- item-set-a
+- itemset-a
+- itemset-b
 
-- item-uni-throw
-- item-uni-bow
-- item-uni-magic
-- item-uni-physic
-- item-uni-armor
-- item-uni-body
-- item-uni-jewel
+- itemuni-throw
+- itemuni-bow
+- itemuni-spear
+- itemuni-physic
+- itemuni-magic
+- itemuni-armor
+- itemuni-body
+- itemuni-jewel
 - item-runeword
 - item-amazon
 - item-ass
